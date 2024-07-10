@@ -2,7 +2,9 @@ langchain-google-genai
 python-dotenv
 langchain
 langchain-community
-unstructured[pdf]
 faiss-cpu
 streamlit
 streamlit-chat
+langchainhub
+langchain-text-splitter
+pypdf2
